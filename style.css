@@ -14,11 +14,8 @@
     background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpfsmNNTXeLDKNXWkmW0iY9k5DabgqfhB-YDvlf2S-tjHilqYZjXTXvUIpz2g4VJ9jvQ&usqp=CAU);
     background-color: black
     
-    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpfsmNNTXeLDKNXWkmW0iY9k5DabgqfhB-YDvlf2S-tjHilqYZjXTXvUIpz2g4VJ9jvQ&usqp=CAU);
-    
-    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpfsmNNTXeLDKNXWkmW0iY9k5DabgqfhB-YDvlf2S-tjHilqYZjXTXvUIpz2g4VJ9jvQ&usqp=CAU
-    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpfsmNNTXeLDKNXWkmW0iY9k5DabgqfhB-YDvlf2S-tjHilqYZjXTXvUIpz2g4VJ9jvQ&usqp=CAU
-}
+   
+   }
 
 .navbar{
     width: 80;
@@ -68,7 +65,7 @@ margin: 0 20px;
 .content p{
     margin: 20px auto;
     font-weight: 100px;
-    line height: 25px;
+    line-height: 25px;
 }
  
 button{
